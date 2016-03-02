@@ -1,5 +1,7 @@
 # Unsupervised prediction of candidate compounds for remyelination
 
+Multiple sclerosis destroys the myelin coating neurons leading to disability. Here, we aim to find small molecules compounds that will promote remyelination. We base our search on our drug repurposing hetnet -- a network with multiple node and relationship types -- which provides a comprehensive framework for data integration. The hetnet is stored in a graph database called neo4j, which we use to compute network features.
+
 ## Queries for visualization
 
 These queries should be run in the neo4j browser. They were chosen to produce

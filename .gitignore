@@ -1,3 +1,12 @@
+# Ignore two unpublished datasets
+# Sergio Baranzini is the contact point for this data
+download/Jack_Antel (A+_A-)_forDaniel.xlsx
+download/O4 Oligos vs NSCs(Log_FC)_for_Daniel.xlsx
+
+# And ignore the integrated dataset which descends from the two files above
+data/OPC-differentiation-diffex-genes.tsv
+
+
 # Created by https://www.gitignore.io/api/linux,osx,windows,microsoftoffice,python,ipythonnotebook,r,libreoffice
 
 ### Linux ###
